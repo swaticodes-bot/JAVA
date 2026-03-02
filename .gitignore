@@ -1,0 +1,4 @@
+*.class>> .gitignore
+echo *.class >> .gitignore
+echo *.class
+*.class
