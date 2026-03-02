@@ -1,0 +1,22 @@
+/**
+ * OOPSBannerAppUC2
+ * 
+ * Prints "OOPS" in large banner format using * and spaces.
+ * 
+ * @author YourName
+ * @version 1.0
+ */
+public class OOPSBannerAppUC2 {
+
+    public static void main(String[] args) {
+        
+        // Each line of the banner
+        System.out.println("  *****    *****    *****    *****  ");
+        System.out.println(" *     *  *     *  *     *  *      ");
+        System.out.println(" *     *  *     *  *     *  *       ");
+        System.out.println(" *     *  *     *  *****    *****   ");
+        System.out.println(" *     *  *     *  *            *    ");
+        System.out.println(" *     *  *     *  *            *    ");
+        System.out.println("  *****    *****   *       *****   ");
+    }
+}
